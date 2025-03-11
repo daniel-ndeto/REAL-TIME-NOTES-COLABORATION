@@ -1,0 +1,27 @@
+# ========= Node.js Dependencies =========
+node_modules/
+
+# ========= Build Artifacts =========
+# (Adjust these folders if your build process outputs elsewhere)
+build/
+dist/
+
+# ========= Environment Files =========
+# Do not commit sensitive environment settings – configure these on Render instead.
+.env
+.env.*
+
+# ========= Log Files =========
+*.log
+
+# ========= System Files =========
+.DS_Store
+Thumbs.db
+
+# ========= IDE & Editor Configurations =========
+.vscode/
+.idea/
+
+# ========= Temporary Files =========
+tmp/
+temp/
