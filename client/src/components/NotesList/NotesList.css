@@ -1,0 +1,6 @@
+.notes-list {
+    padding: 10px;
+    overflow-y: auto;
+    flex: 1;
+  }
+  

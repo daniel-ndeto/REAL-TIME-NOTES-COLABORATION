@@ -1,0 +1,22 @@
+.note {
+  padding: 10px;
+  border-radius: 4px;
+  background-color: #fff;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+}
+
+.note h2 {
+  margin: 0 0 10px;
+  font-size: 1.2rem;
+}
+
+.note p {
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.note small {
+  color: #666;
+  font-size: 0.85rem;
+}

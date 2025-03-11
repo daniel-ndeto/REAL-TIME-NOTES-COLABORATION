@@ -1,0 +1,30 @@
+.rooms-bar {
+    padding: 10px;
+    background: #34495e;
+    color: #fff;
+    margin-bottom: 10px;
+  }
+  
+  .rooms-bar h4 {
+    margin: 0 0 5px;
+  }
+  
+  .rooms-bar select,
+  .rooms-bar input {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 6px;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+  }
+  
+  .rooms-bar button {
+    padding: 6px 12px;
+    background: #2ecc71;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  

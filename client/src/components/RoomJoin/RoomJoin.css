@@ -1,0 +1,15 @@
+.room-join {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .room-join form {
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  .room-join input {
+    margin: 5px;
+    padding: 10px;
+  }
+  

@@ -1,0 +1,42 @@
+.register-container {
+    max-width: 400px;
+    margin: 80px auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .register-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .register-form input {
+    padding: 10px;
+    font-size: 14px;
+  }
+  
+  .register-form button {
+    padding: 10px;
+    font-size: 14px;
+    background-color: #27ae60;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .register-message {
+    margin: 10px 0;
+    color: #e74c3c;
+  }
+  
+  .link-button {
+    background: none;
+    border: none;
+    color: #3498db;
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 14px;
+  }
+  
